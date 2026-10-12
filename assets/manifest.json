@@ -1,0 +1,731 @@
+[
+  {
+    "file": "hero-macarons.webp",
+    "source": "Menu Espetacular (1).pdf",
+    "page": 5,
+    "xref": 471,
+    "sourceDimensions": [
+      580,
+      715
+    ],
+    "dimensions": [
+      580,
+      715
+    ],
+    "bytes": 44018,
+    "label": "Macarons: foto real de sortimento; hero, sem atribuir cores a sabores",
+    "crop": null
+  },
+  {
+    "file": "bolos-chantilly.webp",
+    "source": "Cardápio de Bolo Março 2026.pdf",
+    "page": 6,
+    "xref": 149,
+    "sourceDimensions": [
+      1066,
+      1600
+    ],
+    "dimensions": [
+      733,
+      1100
+    ],
+    "bytes": 73704,
+    "label": "Acabamento de bolo em chantilly; fotografia de exemplo",
+    "crop": null
+  },
+  {
+    "file": "bolos-naked.webp",
+    "source": "Cardápio de Bolo Março 2026.pdf",
+    "page": 5,
+    "xref": 133,
+    "sourceDimensions": [
+      294,
+      442
+    ],
+    "dimensions": [
+      294,
+      442
+    ],
+    "bytes": 36050,
+    "label": "Exemplos da página Naked Cake; não atribuir massa ou recheio",
+    "crop": null
+  },
+  {
+    "file": "bolos-personalizados.webp",
+    "source": "Cardápio de Bolo Março 2026.pdf",
+    "page": 7,
+    "xref": 174,
+    "sourceDimensions": [
+      365,
+      462
+    ],
+    "dimensions": [
+      365,
+      462
+    ],
+    "bytes": 27292,
+    "label": "Bolo personalizado de exemplo; não prometer reprodução da decoração",
+    "crop": null
+  },
+  {
+    "file": "brigadeiros-sortimento.webp",
+    "source": "Espetacular-Doceria-Menu-de-Doces (7).pdf",
+    "page": 2,
+    "xref": 32,
+    "sourceDimensions": [
+      677,
+      456
+    ],
+    "dimensions": [
+      677,
+      456
+    ],
+    "bytes": 37036,
+    "label": "Brigadeiros Gourmet: sortimento, sem mapear posição para sabor",
+    "crop": null
+  },
+  {
+    "file": "copinhos-sortimento.webp",
+    "source": "Espetacular-Doceria-Menu-de-Doces (7).pdf",
+    "page": 3,
+    "xref": 56,
+    "sourceDimensions": [
+      295,
+      450
+    ],
+    "dimensions": [
+      295,
+      450
+    ],
+    "bytes": 11228,
+    "label": "Copinhos de Chocolate: sortimento",
+    "crop": null
+  },
+  {
+    "file": "quadradinhos-sortimento.webp",
+    "source": "Espetacular-Doceria-Menu-de-Doces (7).pdf",
+    "page": 4,
+    "xref": 80,
+    "sourceDimensions": [
+      688,
+      446
+    ],
+    "dimensions": [
+      688,
+      446
+    ],
+    "bytes": 42752,
+    "label": "Quadradinhos de Chocolate: sortimento",
+    "crop": null
+  },
+  {
+    "file": "bombons-sortimento.webp",
+    "source": "Espetacular-Doceria-Menu-de-Doces (7).pdf",
+    "page": 5,
+    "xref": 104,
+    "sourceDimensions": [
+      308,
+      387
+    ],
+    "dimensions": [
+      308,
+      387
+    ],
+    "bytes": 10448,
+    "label": "Bombons Spetaculaires: sortimento",
+    "crop": null
+  },
+  {
+    "file": "trufas-sortimento.webp",
+    "source": "Espetacular-Doceria-Menu-de-Doces (7).pdf",
+    "page": 6,
+    "xref": 128,
+    "sourceDimensions": [
+      303,
+      376
+    ],
+    "dimensions": [
+      303,
+      376
+    ],
+    "bytes": 8030,
+    "label": "Trufas: sortimento",
+    "crop": null
+  },
+  {
+    "file": "bombom-morango.webp",
+    "source": "Espetacular-Doceria-Menu-de-Doces (7).pdf",
+    "page": 7,
+    "xref": 152,
+    "sourceDimensions": [
+      226,
+      205
+    ],
+    "dimensions": [
+      226,
+      205
+    ],
+    "bytes": 5256,
+    "label": "Bombons de morango",
+    "crop": null
+  },
+  {
+    "file": "mini-pavlovas.webp",
+    "source": "Espetacular-Doceria-Menu-de-Doces (7).pdf",
+    "page": 8,
+    "xref": 172,
+    "sourceDimensions": [
+      305,
+      357
+    ],
+    "dimensions": [
+      305,
+      357
+    ],
+    "bytes": 9090,
+    "label": "Mini Pavlovas: exemplos da categoria",
+    "crop": null
+  },
+  {
+    "file": "mini-tartelettes-sortimento.webp",
+    "source": "Espetacular-Doceria-Menu-de-Doces (7).pdf",
+    "page": 9,
+    "xref": 196,
+    "sourceDimensions": [
+      297,
+      449
+    ],
+    "dimensions": [
+      297,
+      449
+    ],
+    "bytes": 16046,
+    "label": "Mini Tartelettes: sortimento",
+    "crop": null
+  },
+  {
+    "file": "lembrancinhas-brownies.webp",
+    "source": "Espetacular-Doceria-Menu-de-Doces (7).pdf",
+    "page": 10,
+    "xref": 220,
+    "sourceDimensions": [
+      300,
+      453
+    ],
+    "dimensions": [
+      300,
+      453
+    ],
+    "bytes": 18740,
+    "label": "Brownies recheados: exemplo de lembrancinha; não representar os demais tipos",
+    "crop": null
+  },
+  {
+    "file": "tarte-amour.webp",
+    "source": "Cardápio tortas-entremets 2028.pdf",
+    "page": 2,
+    "xref": 317,
+    "sourceDimensions": [
+      151,
+      151
+    ],
+    "dimensions": [
+      151,
+      151
+    ],
+    "bytes": 4814,
+    "label": "Tarte Amour",
+    "crop": null
+  },
+  {
+    "file": "tarte-frutas-vermelhas.webp",
+    "source": "Cardápio tortas-entremets 2028.pdf",
+    "page": 2,
+    "xref": 320,
+    "sourceDimensions": [
+      160,
+      143
+    ],
+    "dimensions": [
+      160,
+      143
+    ],
+    "bytes": 3022,
+    "label": "Tarte aux Fruit Rouges",
+    "crop": null
+  },
+  {
+    "file": "tarte-banana.webp",
+    "source": "Cardápio tortas-entremets 2028.pdf",
+    "page": 2,
+    "xref": 323,
+    "sourceDimensions": [
+      131,
+      174
+    ],
+    "dimensions": [
+      131,
+      174
+    ],
+    "bytes": 4944,
+    "label": "Tarte de Banana com Doce de leite",
+    "crop": null
+  },
+  {
+    "file": "tarte-bia.webp",
+    "source": "Cardápio tortas-entremets 2028.pdf",
+    "page": 2,
+    "xref": 326,
+    "sourceDimensions": [
+      183,
+      118
+    ],
+    "dimensions": [
+      183,
+      118
+    ],
+    "bytes": 4786,
+    "label": "Tarte Bia",
+    "crop": null
+  },
+  {
+    "file": "tarte-choconozes.webp",
+    "source": "Cardápio tortas-entremets 2028.pdf",
+    "page": 2,
+    "xref": 329,
+    "sourceDimensions": [
+      131,
+      174
+    ],
+    "dimensions": [
+      131,
+      174
+    ],
+    "bytes": 2448,
+    "label": "Tarte de Choconozes",
+    "crop": null
+  },
+  {
+    "file": "tarte-limao.webp",
+    "source": "Cardápio tortas-entremets 2028.pdf",
+    "page": 2,
+    "xref": 332,
+    "sourceDimensions": [
+      169,
+      135
+    ],
+    "dimensions": [
+      169,
+      135
+    ],
+    "bytes": 5690,
+    "label": "Tarte de Limão",
+    "crop": null
+  },
+  {
+    "file": "tarte-pour-elisa.webp",
+    "source": "Cardápio tortas-entremets 2028.pdf",
+    "page": 2,
+    "xref": 335,
+    "sourceDimensions": [
+      182,
+      126
+    ],
+    "dimensions": [
+      182,
+      126
+    ],
+    "bytes": 4558,
+    "label": "Tarte Pour Elisa",
+    "crop": null
+  },
+  {
+    "file": "tarte-trufa-branca.webp",
+    "source": "Cardápio tortas-entremets 2028.pdf",
+    "page": 2,
+    "xref": 338,
+    "sourceDimensions": [
+      131,
+      174
+    ],
+    "dimensions": [
+      131,
+      174
+    ],
+    "bytes": 5240,
+    "label": "Tarte de Trufa Branca",
+    "crop": null
+  },
+  {
+    "file": "buche-pistache.webp",
+    "source": "Cardápio tortas-entremets 2028.pdf",
+    "page": 3,
+    "xref": 355,
+    "sourceDimensions": [
+      137,
+      166
+    ],
+    "dimensions": [
+      137,
+      166
+    ],
+    "bytes": 3914,
+    "label": "Bûche de pistache",
+    "crop": null
+  },
+  {
+    "file": "charlotte-angela.webp",
+    "source": "Cardápio tortas-entremets 2028.pdf",
+    "page": 3,
+    "xref": 358,
+    "sourceDimensions": [
+      156,
+      146
+    ],
+    "dimensions": [
+      156,
+      146
+    ],
+    "bytes": 4804,
+    "label": "Charlotte Angela",
+    "crop": null
+  },
+  {
+    "file": "fraisier.webp",
+    "source": "Cardápio tortas-entremets 2028.pdf",
+    "page": 3,
+    "xref": 361,
+    "sourceDimensions": [
+      135,
+      169
+    ],
+    "dimensions": [
+      135,
+      169
+    ],
+    "bytes": 4884,
+    "label": "Fraisier: entremet",
+    "crop": null
+  },
+  {
+    "file": "mille-feuilles.webp",
+    "source": "Cardápio tortas-entremets 2028.pdf",
+    "page": 3,
+    "xref": 364,
+    "sourceDimensions": [
+      185,
+      123
+    ],
+    "dimensions": [
+      185,
+      123
+    ],
+    "bytes": 5196,
+    "label": "Mille Feuilles: entremet",
+    "crop": null
+  },
+  {
+    "file": "opera.webp",
+    "source": "Cardápio tortas-entremets 2028.pdf",
+    "page": 3,
+    "xref": 367,
+    "sourceDimensions": [
+      76,
+      76
+    ],
+    "dimensions": [
+      76,
+      76
+    ],
+    "bytes": 1840,
+    "label": "Ópera: entremet; imagem pequena nativa 76px, preferir miniatura ou omitir",
+    "crop": null
+  },
+  {
+    "file": "pavlova.webp",
+    "source": "Cardápio tortas-entremets 2028.pdf",
+    "page": 4,
+    "xref": 383,
+    "sourceDimensions": [
+      76,
+      76
+    ],
+    "dimensions": [
+      76,
+      76
+    ],
+    "bytes": 2090,
+    "label": "Pavlova; imagem pequena nativa 76px, preferir miniatura ou omitir",
+    "crop": null
+  },
+  {
+    "file": "saint-honore.webp",
+    "source": "Cardápio tortas-entremets 2028.pdf",
+    "page": 4,
+    "xref": 386,
+    "sourceDimensions": [
+      131,
+      174
+    ],
+    "dimensions": [
+      131,
+      174
+    ],
+    "bytes": 5324,
+    "label": "Saint Honoré",
+    "crop": null
+  },
+  {
+    "file": "trois-chocolat.webp",
+    "source": "Cardápio tortas-entremets 2028.pdf",
+    "page": 4,
+    "xref": 389,
+    "sourceDimensions": [
+      135,
+      169
+    ],
+    "dimensions": [
+      135,
+      169
+    ],
+    "bytes": 4058,
+    "label": "Trois Chocolat: entremet",
+    "crop": null
+  },
+  {
+    "file": "vanilla-caramel.webp",
+    "source": "Cardápio tortas-entremets 2028.pdf",
+    "page": 4,
+    "xref": 392,
+    "sourceDimensions": [
+      131,
+      174
+    ],
+    "dimensions": [
+      131,
+      174
+    ],
+    "bytes": 3044,
+    "label": "Vanilla et Caramel Beurre Salé",
+    "crop": null
+  },
+  {
+    "file": "kit-faire-la-fete.webp",
+    "source": "Kits Espetacular Doceria.pdf",
+    "page": 1,
+    "xref": 10,
+    "sourceDimensions": [
+      4501,
+      9335
+    ],
+    "dimensions": [
+      1000,
+      939
+    ],
+    "bytes": 44890,
+    "label": "Kit Faire la Fête: foto de apresentação; composição de exemplo, confirmar decoração",
+    "crop": [
+      80,
+      700,
+      2870,
+      3320
+    ]
+  },
+  {
+    "file": "loja-sortimento.webp",
+    "source": "Menu Espetacular (1).pdf",
+    "page": 4,
+    "xref": 415,
+    "sourceDimensions": [
+      828,
+      1018
+    ],
+    "dimensions": [
+      828,
+      1018
+    ],
+    "bytes": 104526,
+    "label": "Fotografia de apresentação do menu da loja; não descrever como cardápio brunch",
+    "crop": null
+  },
+  {
+    "file": "loja-opera.webp",
+    "source": "Menu Espetacular (1).pdf",
+    "page": 3,
+    "xref": 730,
+    "sourceDimensions": [
+      828,
+      775
+    ],
+    "dimensions": [
+      828,
+      775
+    ],
+    "bytes": 56898,
+    "label": "Ópera: porção do Menu da Loja",
+    "crop": null
+  },
+  {
+    "file": "loja-mini-cake-life-me.webp",
+    "source": "Menu Espetacular (1).pdf",
+    "page": 4,
+    "xref": 412,
+    "sourceDimensions": [
+      663,
+      613
+    ],
+    "dimensions": [
+      663,
+      613
+    ],
+    "bytes": 24870,
+    "label": "Mini bolo de cenoura Life Me da Linha Fit; categoria não equivale a alegação alimentar",
+    "crop": null
+  },
+  {
+    "file": "loja-broa-brulee.webp",
+    "source": "Menu Espetacular (1).pdf",
+    "page": 3,
+    "xref": 388,
+    "sourceDimensions": [
+      828,
+      994
+    ],
+    "dimensions": [
+      828,
+      740
+    ],
+    "bytes": 46584,
+    "label": "Mini Broa Brulée do Menu da Loja; recorte remove legenda inserida na foto",
+    "crop": [
+      0,
+      0,
+      828,
+      740
+    ]
+  },
+  {
+    "file": "loja-trois-chocolat.webp",
+    "source": "Menu Espetacular (1).pdf",
+    "page": 2,
+    "xref": 343,
+    "sourceDimensions": [
+      663,
+      763
+    ],
+    "dimensions": [
+      663,
+      620
+    ],
+    "bytes": 24406,
+    "label": "Trois Chocolat: porção do Menu da Loja; recorte remove legenda inserida na foto",
+    "crop": [
+      0,
+      0,
+      663,
+      620
+    ]
+  },
+  {
+    "file": "logo.webp",
+    "source": "Menu Espetacular (1).pdf",
+    "page": 1,
+    "xref": 23,
+    "sourceDimensions": [
+      1630,
+      709
+    ],
+    "dimensions": [
+      1100,
+      413
+    ],
+    "bytes": 92382,
+    "label": "Lettering oficial manuscrito rosa, com transparência e sem redesenho",
+    "crop": [
+      212,
+      128,
+      1418,
+      581
+    ]
+  },
+  {
+    "file": "kit-bonjour.webp",
+    "source": "WhatsApp Image 2026-07-31 at 14.58.48.jpeg",
+    "page": "imagem única",
+    "sourceDimensions": [
+      1023,
+      1537
+    ],
+    "dimensions": [
+      314,
+      440
+    ],
+    "bytes": 30584,
+    "label": "Kit Bonjour",
+    "crop": [
+      23,
+      470,
+      337,
+      910
+    ]
+  },
+  {
+    "file": "kit-brunch.webp",
+    "source": "WhatsApp Image 2026-07-31 at 14.58.48.jpeg",
+    "page": "imagem única",
+    "sourceDimensions": [
+      1023,
+      1537
+    ],
+    "dimensions": [
+      308,
+      440
+    ],
+    "bytes": 28360,
+    "label": "Kit Brunch: presente, não menu presencial",
+    "crop": [
+      358,
+      470,
+      666,
+      910
+    ]
+  },
+  {
+    "file": "kit-amour-chocolate.webp",
+    "source": "WhatsApp Image 2026-07-31 at 14.58.48.jpeg",
+    "page": "imagem única",
+    "sourceDimensions": [
+      1023,
+      1537
+    ],
+    "dimensions": [
+      313,
+      435
+    ],
+    "bytes": 26978,
+    "label": "Kit Amour Au Chocolate",
+    "crop": [
+      688,
+      475,
+      1001,
+      910
+    ]
+  },
+  {
+    "file": "hero.webp",
+    "source": "Menu Espetacular (1).pdf",
+    "page": 5,
+    "xref": 471,
+    "sourceDimensions": [
+      580,
+      715
+    ],
+    "dimensions": [
+      580,
+      715
+    ],
+    "bytes": 44018,
+    "label": "Alias da fotografia de hero para metadados",
+    "crop": null
+  }
+]

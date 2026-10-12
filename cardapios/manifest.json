@@ -1,0 +1,44 @@
+[
+  {
+    "file": "bolos.pdf",
+    "source": "Cardápio de Bolo Março 2026.pdf",
+    "bytes": 3801227,
+    "sha256": "c094a47e789618ef01a7f3a7cb60406a31926d0da04ac0b40f326a59bb98e914"
+  },
+  {
+    "file": "tortas.pdf",
+    "source": "Cardápio tortas-entremets 2028.pdf",
+    "bytes": 1234590,
+    "sha256": "2aa48f939a1aa2f04260c74fd3d870fe4788dee7cbb2f908f51ceb2302ebd650"
+  },
+  {
+    "file": "macarons.pdf",
+    "source": "ED CARDAPIO DE MACARONS ATUALIZADO 2026 (1).pdf",
+    "bytes": 566619,
+    "sha256": "dde9563396ecd0bd29243a996cb91abbc1f6692dea8b0f9103bde8020b8369e5"
+  },
+  {
+    "file": "doces.pdf",
+    "source": "Espetacular-Doceria-Menu-de-Doces (7).pdf",
+    "bytes": 1236886,
+    "sha256": "75cbade699f85387ff7e45c22d99201f41b45efba2cbb37b9023adfef895d424"
+  },
+  {
+    "file": "festa.pdf",
+    "source": "Kits Espetacular Doceria.pdf",
+    "bytes": 25569456,
+    "sha256": "00371b92a3c2b83f97df11230666c792352b456e64a68a1407dd997cf9c326fd"
+  },
+  {
+    "file": "presentes.jpeg",
+    "source": "WhatsApp Image 2026-07-31 at 14.58.48.jpeg",
+    "bytes": 414438,
+    "sha256": "cca7c55ef05c4fd20a10da3ee0973155b9ff4cbdc0cc279c48b5352b181683f9"
+  },
+  {
+    "file": "loja.pdf",
+    "source": "Menu Espetacular (1).pdf",
+    "bytes": 5737540,
+    "sha256": "b735ad0ce80e36e839b8a4af8027c8061f1f8567ab58428c7b0dcce8b8b32798"
+  }
+]
